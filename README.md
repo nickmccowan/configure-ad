@@ -24,8 +24,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Install Active Directory
-- Create an Admin and Normal User Account in AD
+- Install Active Directory on Domain Controller-1
+- Create an Admin and Normal User Account in Active Directory Domain Services
 - Join Client-1 to your personalized domain i.e. mydomain.com
 - Create additional users and log in to client-1 with one of the users info
 
