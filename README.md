@@ -32,7 +32,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/xqyG6Wr.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K3eorGf.png" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Begin by setting up 2 virtual machines, one running Windows server 2022 (Domain Controller 1) the other running Windows 10 (Client 1). Set DC-1's NIC private IP address to static (shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ohDahs0.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
